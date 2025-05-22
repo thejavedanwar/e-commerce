@@ -1,0 +1,12 @@
+Project Overview
+
+This project demonstrates API testing for a basic e-commerce backend using Postman. The collection includes requests for user registration, login, fetching product lists, viewing product details and adding items to a cart.
+
+It is designed to showcase practical skills in:
+- Structuring collections
+- Using environment and global variables
+- Writing pre-request scripts and test scripts
+- Running data-driven tests using CSV
+- Testing authentication workflows (e.g., JWT token handling)
+
+Ideal for QA engineers, software testers, or API developers building and testing RESTful services.
